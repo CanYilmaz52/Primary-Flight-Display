@@ -1,0 +1,15 @@
+txtBoxAltitude: 15674
+txtBoxTemperature: 23
+txtBoxFuelLevel: 6654
+txtBoxSpeed: 321
+txtNumberPassengers: 123
+txtBoxHeading: 64
+txtBoxWindInfo: 21 
+txtFlightRoute: Unreachable
+comboBoxAircraftType: Embraer E-Jet
+comboBoxAircraftModel: E170
+comboBoxWeather: Cloudy
+comboBoxCabinStatus: Boarding
+txtBoxPitch: 11
+txtBoxRoll: 64
+txtBoxSlipSkidValue: 21

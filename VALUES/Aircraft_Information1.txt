@@ -1,0 +1,15 @@
+txtBoxAltitude: 8550
+txtBoxTemperature: -34
+txtBoxFuelLevel: 134
+txtBoxSpeed: 111
+txtNumberPassengers: 3
+txtBoxHeading: 32
+txtBoxWindInfo: 14
+txtFlightRoute: NYC to LAX
+comboBoxAircraftType: Cessna 172
+comboBoxAircraftModel: Cessna 172 Skyhawk
+comboBoxWeather: Cloudy
+comboBoxCabinStatus: Overcrowded
+txtBoxPitch: 34
+txtBoxRoll: 86
+txtBoxSlipSkidValue: 10

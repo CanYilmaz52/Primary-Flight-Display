@@ -1,0 +1,13 @@
+altitude: 912344 gözlemlenmeli. N
+flightInfo gözlemlenmeli. N
+aircraftType: Deebene123312 N
+aircraftModel: E170 Y
+fuelLevel: 50 gözlemlenmeli. Y
+speed: 145 gözlemlenmeli N
+fuelLevel: 50 gözlemlenmeli. Y
+aircraftType: Deebene123312 N
+aircraftModel: E170 Y
+pitchValue: 22 gözlemlenmeli. N
+rollValue: 34 gözlemlenebilmeli Y
+slipSkidValue: 221 gözlemlenebilmeli. N
+headingValue: 21 gözlemlenmeli. N

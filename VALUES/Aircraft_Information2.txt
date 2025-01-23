@@ -1,0 +1,15 @@
+txtBoxAltitude: 6543
+txtBoxTemperature: 23
+txtBoxFuelLevel: 6654
+txtBoxSpeed: 321
+txtNumberPassengers: 123
+txtBoxHeading: 343
+txtBoxWindInfo: 21 
+txtFlightRoute: TR To NYC
+comboBoxAircraftType: Embraer E-Jet
+comboBoxAircraftModel: E170
+comboBoxWeather: Cloudy
+comboBoxCabinStatus: Boarding
+txtBoxPitch: 11
+txtBoxRoll: 64
+txtBoxSlipSkidValue: 21

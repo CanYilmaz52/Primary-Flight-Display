@@ -1,0 +1,15 @@
+altitude: 912344 gözlemlenmeli.
+temperature: 32 gözlemlenmeli. 
+fuelLevel: 50 gözlemlenmeli.
+speed: 145 gözlemlenmeli 
+numberOfPassengers: 343 gözlemlenmeli.
+headingValue: 21 gözlemlenmeli.
+windInfo: 433 gözlemlenmeli.
+flightRoute: No Route gözlemlenmeli
+aircraftType: Deebene123312
+aircraftModel: E170
+weather: Dark gözlemlenmeli.
+cabinStatus: Unknown gözlemlenmeli.
+pitchValue: 22 gözlemlenmeli.
+rollValue: 34 gözlemlenebilmeli
+slipSkidValue: 221 gözlemlenebilmeli.

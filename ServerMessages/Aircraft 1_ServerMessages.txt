@@ -1,0 +1,13 @@
+altitude: 4320 gözlemlenmeli. N
+flightInfo gözlemlenmeli. N
+aircraftType: Cessna 172 Y
+aircraftModel: Cessna 172 Skyhawk Y
+fuelLevel: 85433 gözlemlenmeli. N
+speed: 111 gözlemlenmeli Y
+fuelLevel: 85433 gözlemlenmeli. N
+aircraftType: Cessna 172 Y
+aircraftModel: Cessna 172 Skyhawk Y
+pitchValue: 34 gözlemlenmeli. Y
+rollValue: 86 gözlemlenebilmeli Y
+slipSkidValue: 10 gözlemlenebilmeli. Y
+headingValue: 32 gözlemlenmeli. Y

@@ -1,0 +1,13 @@
+altitude: 6543 gözlemlenmeli. Y
+flightInfo gözlemlenmeli. Y
+aircraftType: Embraer E-Jet Y
+aircraftModel: E170 Y
+fuelLevel: 6654 gözlemlenmeli. Y
+speed: 321 gözlemlenmeli Y
+fuelLevel: 6654 gözlemlenmeli. Y
+aircraftType: Embraer E-Jet Y
+aircraftModel: E170 Y
+pitchValue: 11 gözlemlenmeli. Y
+rollValue: 64 gözlemlenebilmeli Y
+slipSkidValue: 21 gözlemlenebilmeli. Y
+headingValue: 343 gözlemlenmeli. Y

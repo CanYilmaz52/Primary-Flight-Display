@@ -1,0 +1,15 @@
+altitude: 15674 gözlemlenmeli.
+temperature: 233 gözlemlenmeli. 
+fuelLevel: 66454 gözlemlenmeli.
+speed: 321 gözlemlenmeli 
+numberOfPassengers: 123 gözlemlenmeli.
+headingValue: 64 gözlemlenmeli.
+windInfo: 21 gözlemlenmeli.
+flightRoute: Unreachable gözlemlenmeli
+aircraftType: Embraer E-Jet
+aircraftModel: E170
+weather: Darkkk gözlemlenmeli.
+cabinStatus: Full gözlemlenmeli.
+pitchValue: 11 gözlemlenmeli.
+rollValue: 64 gözlemlenebilmeli
+slipSkidValue: 21 gözlemlenebilmeli.

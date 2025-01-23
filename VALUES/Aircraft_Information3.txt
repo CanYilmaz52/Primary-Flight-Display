@@ -1,0 +1,15 @@
+txtBoxAltitude: 3212
+txtBoxTemperature: 54
+txtBoxFuelLevel: 50
+txtBoxSpeed: 145
+txtNumberPassengers: 123
+txtBoxHeading: 343
+txtBoxWindInfo: 21 
+txtFlightRoute: TR To NYC
+comboBoxAircraftType: Deeneme12312
+comboBoxAircraftModel: E170
+comboBoxWeather: Dark
+comboBoxCabinStatus: Unknown
+txtBoxPitch: 22
+txtBoxRoll: 34
+txtBoxSlipSkidValue: 31

@@ -1,0 +1,15 @@
+altitude: 4320 gözlemlenmeli.
+temperature: -34 gözlemlenmeli. 
+fuelLevel: 85433 gözlemlenmeli.
+speed: 111 gözlemlenmeli 
+numberOfPassengers: 3 gözlemlenmeli.
+headingValue: 32 gözlemlenmeli.
+windInfo: 87 gözlemlenmeli.
+flightRoute: NYC to LAX gözlemlenmeli
+aircraftType: Cessna 172
+aircraftModel: Cessna 172 Skyhawk
+weather: Cloudy gözlemlenmeli.
+cabinStatus: Unknown gözlemlenmeli.
+pitchValue: 34 gözlemlenmeli.
+rollValue: 86 gözlemlenebilmeli
+slipSkidValue: 10 gözlemlenebilmeli.

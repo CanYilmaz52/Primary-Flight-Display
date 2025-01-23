@@ -1,0 +1,15 @@
+altitude: 6543 gözlemlenmeli.
+temperature: 23 gözlemlenmeli. 
+fuelLevel: 6654 gözlemlenmeli.
+speed: 321 gözlemlenmeli 
+numberOfPassengers: 123 gözlemlenmeli.
+headingValue: 343 gözlemlenmeli.
+windInfo: 21 gözlemlenmeli.
+flightRoute: TR To NYC gözlemlenmeli
+aircraftType: Embraer E-Jet
+aircraftModel: E170
+weather: Cloudy gözlemlenmeli.
+cabinStatus: Boarding gözlemlenmeli.
+pitchValue: 11 gözlemlenmeli.
+rollValue: 64 gözlemlenebilmeli
+slipSkidValue: 21 gözlemlenebilmeli.

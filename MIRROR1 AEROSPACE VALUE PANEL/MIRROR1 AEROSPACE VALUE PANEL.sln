@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIRROR1 AEROSPACE VALUE PANEL", "MIRROR1 AEROSPACE VALUE PANEL\MIRROR1 AEROSPACE VALUE PANEL.csproj", "{D528ABB2-3286-40CB-B378-7A28BD8AE73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D528ABB2-3286-40CB-B378-7A28BD8AE73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D528ABB2-3286-40CB-B378-7A28BD8AE73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D528ABB2-3286-40CB-B378-7A28BD8AE73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D528ABB2-3286-40CB-B378-7A28BD8AE73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94EFAC38-375F-402B-AD7A-DFE12A782A79}
+	EndGlobalSection
+EndGlobal
